@@ -21,6 +21,7 @@ print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='- - - - -')
 Output yang didapat :
+[2](https://user-images.githubusercontent.com/56785643/68270899-cbb16280-0013-11ea-92ba-eda78a6c9a14.png)
 
 Output_sep
 
