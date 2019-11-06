@@ -6,7 +6,8 @@ Contoh kode :
 
 Penggunaan end
 print('A', end="") print('B', end="") print('C', end="") print() print('X') print('Y') print('Z')
-![1](https://user-images.githubusercontent.com/56785643/68270898-cbb16280-0013-11ea-84fb-d493c4bc900f.png)
+
+![Output_End](https://user-images.githubusercontent.com/56785643/68272420-85123700-0018-11ea-8855-fc723425447e.png)
 
 Output_End
 
