@@ -48,6 +48,7 @@ Dengan Kode :
 print('{0:>3} {1:>16}'.format(0, 10 ** 0)) print('{0:>3} {1:>16}'.format(1, 10 ** 1)) print('{0:>3} {1:>16}'.format(2, 10 ** 2)) print('{0:>3} {1:>16}'.format(3, 10 ** 3)) print('{0:>3} {1:>16}'.format(4, 10 ** 4)) print('{0:>3} {1:>16}'.format(5, 10 ** 5)) print('{0:>3} {1:>16}'.format(6, 10 ** 6)) print('{0:>3} {1:>16}'.format(7, 10 ** 7)) print('{0:>3} {1:>16}'.format(8, 10 ** 8)) print('{0:>3} {1:>16}'.format(9, 10 ** 9)) print('{0:>3} {1:>16}'.format(10, 10 ** 10))
 
 Dalam contoh di atas terdapat { } yang berfungsi sebagai placeholder atau penempat arguments. Argument secara default urutannya adalah berurutan.
+[5](https://user-images.githubusercontent.com/56785643/68270904-cc49f900-0013-11ea-92ff-593e142bd442.png)
 
 Output_String3
 
