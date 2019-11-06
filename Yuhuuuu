@@ -56,6 +56,7 @@ Misalnya dalam contoh di atas, terdapat argument "0" dan "10 ** 0" didalam forma
 
 print('{1:>3} {0:>16}'.format(0, 10 ** 0))
 Output yang didapat :
+[6](https://user-images.githubusercontent.com/56785643/68270905-cce28f80-0013-11ea-8527-f88f248ad627.png)
 
 Output_String4
 
